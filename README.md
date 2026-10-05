@@ -11,6 +11,7 @@
 [![Télécharger](https://img.shields.io/badge/⬇_Télécharger-version_2.0.0-C9A24B?style=for-the-badge&labelColor=12141B)](https://github.com/lerapeurdu62280-debug/Coffre-Download/releases/latest)
 [![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#%EF%B8%8F-configuration-requise)
 [![Premium](https://img.shields.io/badge/✦_Premium-29_€_à_vie-D9C7A1?style=for-the-badge&labelColor=12141B)](#-gratuit-ou-premium-)
+[![Discord](https://img.shields.io/badge/Discord-rejoindre_l%E2%80%99atelier-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=12141B)](https://discord.gg/W5hd36CW6b)
 
 <br>
 
@@ -105,7 +106,7 @@ Coffre est **gratuit pour toujours** pour protéger un PC et sauver quelques fic
 ### Obtenir Premium · 29 €
 
 1. Ouvrez l'onglet **Licence** de Coffre et cliquez sur **Copier** à côté de votre **code machine**.
-2. Envoyez ce code à **S.O.S INFO LUDO** : ✉️ **s.o.sinfoludo@gmail.com** · 📞 **06 59 59 05 15**.
+2. Envoyez ce code à **S.O.S INFO LUDO** : ✉️ **s.o.sinfoludo@gmail.com** · 📞 **06 59 59 05 15** · 💬 **[Discord](https://discord.gg/W5hd36CW6b)**.
 3. Réglez **29 €** : par **carte bancaire** (lien de paiement sécurisé Zettle envoyé par e-mail), par **virement**, ou en **espèces** à l'atelier de Boulogne-sur-Mer.
 4. Vous recevez votre licence par e-mail : collez-la dans l'onglet **Licence** (ou ouvrez le fichier `.lic`), puis cliquez sur **Activer Premium**.
 
@@ -206,6 +207,8 @@ La licence est liée à un ordinateur. En cas de changement de PC ou de carte m�
 ---
 
 <div align="center">
+
+💬 Une question, un souci ? Rejoignez le **[Discord de l'atelier](https://discord.gg/W5hd36CW6b)**.
 
 **Coffre** · conçu et développé par **S.O.S INFO LUDO**, Boulogne-sur-Mer
 
